@@ -1,0 +1,26 @@
+{
+  "name": "madara-contract",
+  "version": "1.0.0",
+  "author": "KenNode",
+  "description": "Madara tx",
+  "homepage": "https://github.com/kennode048/madara-tx#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kennode048/madara-tx"
+  },
+  "keywords": [
+    "madara"
+  ],
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.2",
+    "madara-txs": "^1.0.0",
+    "starknet": "^5.24.3",
+    "starknetkit-fork": "^1.1.5"
+  }
+}
